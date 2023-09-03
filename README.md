@@ -4,7 +4,15 @@
 
 <div align="center">
 <p>
-<img src="https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80" width="100%"/>
-
+<table align="center">
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/rukon-uddin/Dataset-Insight/main/assets/Screenshot%20from%202023-09-03%2011-37-48.png" width="100%" alt="Image 1"/>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/rukon-uddin/Dataset-Insight/main/assets/Screenshot%20from%202023-09-03%2011-44-02.png" width="100%" alt="Image 2"/>
+        </td>
+    </tr>
+</table>
 </div>
 </div>
